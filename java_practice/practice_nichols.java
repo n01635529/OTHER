@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class factorial {
+public class practice_nichols {
 
     public static void main(String[] args) {
 
