@@ -8,7 +8,7 @@ public class practice_nichols {
 
         Scanner sc = new Scanner(System.in);
         System.out.print("Input your number: ");
-        int number = sc.nextInt();
+        final int number = sc.nextInt();
         sc.close();
         int factorial = 1;
 
@@ -23,5 +23,7 @@ public class practice_nichols {
         System.out.println("The factorial for " + number + " is " + factorial);
 
     }
-
+    static void string(String[]args) {
+        
+    }
 }
